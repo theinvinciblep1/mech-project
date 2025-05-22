@@ -1,0 +1,69 @@
+Samridhi: Good afternoon, everyone. My name is Samridhi Shukla, and this is my teammate, Shreejal Tiwari. I am the team captain of SU-57, and today, we are here to present our project report on the mechanics behind self-balancing toys, specifically the Balancing Weightlifter.
+
+(Slide Change)
+
+We have structured our presentation as follows:
+
+(Read the table of contents from the PDF)
+
+(Slide Change)
+
+About Us
+We are SU-57, a team of engineering enthusiasts dedicated to unraveling the intricate mechanics behind self-balancing toys. Our research delves into the physics, control theory, and dynamic stability principles governing these fascinating systems. Through rigorous mathematical modeling, computational simulations, and experimental validation, we aim to develop a comprehensive understanding of self-balancing dynamics.
+
+As for our team name, there's a rather amusing backstory. (Samridhi gestures towards Shreejal)—this man is an aviation enthusiast, and his favorite aircraft, the Sukhoi Su-57, inspired our team’s name. The Su-57 is a state-of-the-art fighter jet known for its superior aerodynamics, stability, and maneuverability—qualities that align perfectly with the core principles of our project: balance, control, and precision. By adopting this name, we symbolize innovation, engineering excellence, and our pursuit of mastering dynamic stability mechanisms.
+
+(Slide Change)
+
+About Me
+I am Samridhi Shukla, a Mechanical Engineering undergraduate at Guru Ghasidas Vishwavidyalaya, Batch of 2028. While I may still be in the early stages of my academic journey, I have a profound passion for mechanical systems, computational modeling, and applied physics.
+
+I have actively contributed to research and technical projects, including an MSME Hackathon, where my team developed a method to convert solid waste into fuel via anaerobic digestion technology. Additionally, as a core member of Team Celeritas, I leveraged my management and communication skills to secure sponsorships crucial to our project development. I am currently exploring MATLAB (though still at a beginner level) and JavaScript, while also engaging in video editing, computational design, and coding—always striving to enhance my technical skill set.
+
+(Slide Change)
+
+Project Objective
+The primary objective of our project is to conduct an in-depth analysis of the mechanics governing self-balancing toys. Specifically, we aim to:
+
+Derive and examine the equations of motion governing these systems.
+Investigate their stability conditions and oscillatory dynamics under various perturbations.
+Explore the effects of damping, nonlinear behavior, and parametric excitation on their motion.
+Implement MATLAB-based simulations to visualize the toy’s dynamic response, phase-space evolution, and energy transformations.
+Beyond the scope of toys, our findings have practical implications in domains such as robotic locomotion, vibration control, and autonomous stabilization systems—all of which rely on a fundamental understanding of dynamic balance and feedback control.
+
+(Slide Change)
+
+Problem Statement
+Let us now define the core problem we seek to address.
+
+(Switch to the photograph and videos taken at Sir's office.)
+
+As seen in the image, the balancing weightlifter remains in equilibrium under static conditions. From the video, we observe that even under small perturbations, the system naturally returns to its balanced state.
+
+Self-balancing toys exhibit this behavior by leveraging principles of mechanical equilibrium, center of mass control, and damping forces. However, the critical challenge lies in deciphering how these systems achieve stability and how external disturbances influence their dynamic behavior.
+
+To systematically analyze this phenomenon, we have formulated three key research questions:
+
+Equation of Motion & Stability:
+
+The system follows a nonlinear second-order differential equation governing its motion.
+Under small-angle approximations, the system behaves as a damped harmonic oscillator; however, at larger deflections, nonlinear effects become dominant, necessitating a full-scale dynamic analysis.
+Damping and Energy Dissipation:
+
+The system’s damping characteristics dictate its stabilization behavior:
+Underdamped systems exhibit oscillatory motion before reaching equilibrium.
+Critically damped systems return to equilibrium in the shortest possible time without overshooting.
+Overdamped systems exhibit slow, non-oscillatory motion toward equilibrium.
+Energy dissipation analysis helps us understand how the system’s motion decays over time.
+Parametric Excitation & Chaotic Motion:
+
+If the system experiences periodic variations in its pivot or mass distribution, parametric resonance can occur, amplifying oscillations beyond expected limits.
+Under strong forcing conditions and nonlinearity, the system can enter a state of chaotic motion, exhibiting highly unpredictable and non-repeating behavior.
+To systematically investigate these aspects, we will:
+
+Derive the governing equations of motion using Newtonian mechanics.
+Analyze the effects of external forces, damping, and nonlinear stability constraints.
+Simulate the toy’s oscillatory behavior in MATLAB, generating phase-space plots, energy distribution graphs, and response spectra to visualize its dynamic characteristics.
+Through this study, we aim to bridge the gap between theoretical modeling and practical applications in self-balancing systems, robotics, and feedback control mechanisms.
+
+Now, I would like to invite Shreejal to take over and elaborate on the mechanical principles governing the system.

@@ -1,0 +1,64 @@
+open the google ppt 
+sam :good afternoon everyone my name is samridhi Shukla and he is my team mate shreejal tiwari,I am the team caption of the the team Su-57 we are here to present our project report on the mechanics behind self balancing toy the balancing weight lifter
+ 
+(change)
+
+sam:so we have divided our presentation as follows this is our table of content (read the table of content from the pdf)
+
+(slide change)
+
+sam:about us:We are SU 57, a team of passionate engineering students dedicated to unraveling the mechanics behind self-balancing toys. Our project focuses on analyzing the physics, control mechanisms, and stability principles that govern these fascinating systems. Through rigorous mathematical modeling, simulations, and real-world insights, we aim to provide a comprehensive understanding of self-balancing dynamics.
+
+Our team name there is a childish story behind this name this man(samriddhi points to me) loves aircraft and this is his favoirate aircaraft, SU 57, is inspired by the Sukhoi Su-57, a cutting-edge fighter jet known for its advanced aerodynamics, agility, and stability. Just like the aircraft, our project revolves around balance, control, and precision—key aspects that define both high-performance aviation and self-balancing systems. We chose this name as a symbol of innovation, engineering excellence, and our ambition to explore the intricate mechanics behind dynamic stability.
+
+(slide change)
+
+sam:this is about me 
+i’m Samridhi Shukla, a passionate Mechanical Engineering student from Guru Ghasidas Vishwavidyalaya, Batch of 2028. I may not be an expert (yet!), but I love learning and gaining experiences that add value—not just to my life but to others as well. I’ve had the opportunity to help my friends collect samples and create designs for an MSME Hackathon, where we worked on converting solid waste into fuel using anaerobic respiration technology. As a Team Celeritas member, I used my management and communication skills to bring in sponsorships that were crucial for our project. I’m also exploring MATLAB (still an absolute beginner!) and JavaScript, and I enjoy pushing my creativity through video editing, coding, and design. Always looking forward to new challenges and learning something exciting along the way!
+
+(slide change)
+
+sam:this is all about shreejal
+Shreejal Tiwari is a dedicated Mechanical Engineering student at Guru Ghasidas Vishwavidyalaya, Batch of 2028, with a strong passion for physics and mechanics. Always striving for growth, he actively engages in projects that challenge his problem-solving and critical-thinking abilities. As a participant in the MSME Hackathon, he contributed to developing a solution for converting solid waste into fuel using anaerobic respiration technology. Additionally, as a Team Celeritas member, he played a crucial role in securing sponsorships that were vital for the team's project development. His technical expertise includes MATLAB, AutoCAD, Figma, JavaScript, and SolidWorks, and he continues to expand his knowledge and skills in engineering and design.
+
+(slide change)
+
+sam:so what is our project objective 
+
+our project objective:
+The objective of this project is to analyze the mechanics of self-balancing toys by deriving and understanding their equations of motion, stability conditions, and oscillatory behavior. This includes studying the effects of damping, nonlinear dynamics, parametric excitation, and chaotic motion. Additionally, MATLAB simulations will be used to visualize the toy’s motion, phase-space behavior, and energy variations. The findings will provide insights into real-world applications, such as robotic balance systems, vibration control, and dynamic stabilization in engineering
+
+
+(slide change)
+
+sam:so let us under stand our problem this is the toy whose mechanics we will be discussing in a bit 
+
+(switch to photo an videos taken by me at sir's office)
+ 
+as we can see in this photo that this man is balanced when this is in not disturbed 
+and from the video we can see that is also these are balanced even when it is slightly disturbed 
+
+ this Self-balancing toys appear to defy gravity by maintaining an upright position despite external disturbances. This behavior is governed by fundamental principles of mechanics, particularly the placement of the center of mass, torque, and damping forces. The challenge lies in understanding how these toys achieve stable equilibrium and how their motion evolves under different conditions.
+
+to understand the mechanics behind our toy we will be answering the following three questions:
+
+1)Equation of Motion & Stability:The toy’s motion follows a nonlinear second-order differential equation. For small angles, it behaves as a damped harmonic oscillator, while large-angle dynamics require the full nonlinear model.
+
+2)Damping and Energy Loss:Damping affects how the toy stabilizes—underdamped systems oscillate, critically damped ones return quickly, and overdamped systems move slowly. Energy analysis helps track how motion dissipates over time.
+
+3)Parametric Excitation & Chaos:Periodic variations in the pivot or mass can cause parametric resonance, amplifying oscillations. With strong forcing and damping, chaotic motion emerges, leading to unpredictable behavior.
+
+so let us analyze this, we derive the equations of motion based on Newtonian mechanics and explore various factors influencing stability, such as damping, external forces, and nonlinear effects. By simulating these dynamics using MATLAB, we can visualize the toy’s oscillations, energy distribution, and phase-space trajectories, providing a deeper insight into how self-balancing mechanisms function in both toys and real-world applications like robotics and control systems.
+
+
+so now i would ask shreejal to join and tell us about the mechanics 
+
+
+
+
+
+
+
+
+
+
